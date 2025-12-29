@@ -3,14 +3,14 @@ Taking a look at video game sales from 1980-2020 to determine highest sales by r
 
 In continuing my practice with Pandas, I looked at data related to video games sales. This dataset is only from 1980-2020, so it's not up to date with current numbers. Regardless, it was a facinating dataset to explore. I used [this dataset](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales/data) from Kaggle. 
 
-###Top 5 Games Globally 
+### Top 5 Games Globally 
 1. Wii Sports
 2. Super Mario Bros.
 3. Mario Kart Wii
 4. Wii Sports Resort
 5. Pokemon Red/Pokemon Blue
 
-###Top 5 Games in Japan
+### Top 5 Games in Japan
 1. Pokemon Red/Pokemon Blue
 2. Pokemon Gold/Pokemon Silver
 3. Super Mario Bros.
